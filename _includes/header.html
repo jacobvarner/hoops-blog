@@ -5,22 +5,22 @@
       <h1>{{ site.title }}</h1>
     </a>
     <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <img id="menu-icon" class="closed" src="{{ site.baseurl }}/assets/images/menu_open.png" alt="Open menu icon" />
+      <a id="menu" onClick="toggleMenu()">
+        <img id="menu-icon"  class="closed" src="{{ site.baseurl }}/assets/images/menu_open.png" alt="Open menu icon" />
       </a>
-      <div class="sidebar">
-        <ul>
-          <li><a href="#">Top 25 Rankings</a></li>
-          <li><a href="#">SEC Power Rankings</a></li>
-          <li>
-            <p>Archive</p>
-            <ul>
-              <li>2016</li>
-            </ul>
-          </li>
-          <li><a href="#">@jacobvarner14</a></li>
-        </ul>
-      </div>
     </nav>
+  </div>
+  <div id="sidebar">
+    <ul>
+      <li><a href="#">Top 25 Rankings</a></li>
+      <li><a href="#">SEC Power Rankings</a></li>
+      <li>
+        <p>Archive</p>
+        <ul>
+          <li>2016</li>
+        </ul>
+      </li>
+      <li><a href="#">@jacobvarner14</a></li>
+    </ul>
   </div>
 </header>
