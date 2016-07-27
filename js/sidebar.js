@@ -3,7 +3,7 @@ function toggleMenu() {
 
   if (menuStatus === "closed") {
     console.log("Open!");
-    document.getElementById("sidebar").style.right = "0";
+    document.getElementById("sidebar").style.right = "0px";
     document.getElementById("menu-icon").src = "/assets/images/menu_close.png";
     document.getElementById("menu-icon").className = "open";
   } else {

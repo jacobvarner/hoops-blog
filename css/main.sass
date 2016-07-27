@@ -42,21 +42,28 @@ header
 
     #menu
       img
+        display: none
         float: right
         width: 30px
         height: 30px
         margin: 10px 20px
 
+        @media only screen and (max-width: 1540px)
+          display: block
+
 /////////////
 // SIDEBAR //
 /////////////
 #sidebar
-  position: absolute
-  right: -300px
+  position: fixed
+  right: 0px
   top: 50px
   z-index: 89
   width: 300px
   background: $sidebar
   height: 100%
-  transition: right 0.5s ease-in
-  -webkit-transition: right 0.5s ease-in
+  transition: right 0.3s ease-in
+  -webkit-transition: right 0.3s ease-in
+
+  @media only screen and (max-width: 1540px)
+    right: -300px
