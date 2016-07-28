@@ -51,6 +51,22 @@ header
         @media only screen and (max-width: 1540px)
           display: block
 
+  .ad-top-wrapper
+    overflow: auto
+    background: pink
+    margin: 10px 0
+    width: calc(100% - 300px)
+    transition: width 0.3s ease-in
+    -webkit-transition: width 0.3s ease-in
+
+    @media only screen and (max-width: 1540px)
+      width: 100%
+
+    .ad-top
+      display: block
+      margin-left: 50%
+      transform: translateX(-50%)
+
 /////////////
 // SIDEBAR //
 /////////////
