@@ -12,7 +12,15 @@ layout: default
       <p class="post-date-1">{{ post.date | date: '%B %d, %Y' }}</p>
     </div>
   {% endfor %}
-
+  {% for post in site.posts limit:2 offset:1 %}
+    <div class="side-post">
+      <h2 class="post-link-2">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p class="post-excerpt-2">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+      <p class="post-date-2">{{ post.date | date: '%B %d, %Y' }}</p>
+    </div>
+  {% endfor %}
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
