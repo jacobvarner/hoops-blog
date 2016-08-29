@@ -11,6 +11,7 @@ $sidebar: #003399
 
 body
   background: $background
+  position: relative
 
 ////////////
 // HEADER //
@@ -71,13 +72,13 @@ header
 // SIDEBAR //
 /////////////
 #sidebar
-  position: fixed
+  position: absolute
   right: 0px
   top: 50px
   z-index: 89
   width: 300px
   background: $sidebar
-  height: 100%
+  min-height: 100%
   transition: right 0.3s ease-in
   -webkit-transition: right 0.3s ease-in
 
@@ -187,3 +188,12 @@ header
 
     .darker
       background: $blue3
+
+    .post
+      display: block
+      width: 799px
+      margin: 0
+      padding: 0
+      overflow: auto
+      border-right: 1px solid $background
+      border-bottom: 1px solid $background
