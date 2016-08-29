@@ -4,6 +4,8 @@
 
 $background: #cccccc
 $blue1: #0066ff
+$blue2: #3399ff
+$blue3: #003399
 $sidebar: #003399
 
 
@@ -98,6 +100,7 @@ header
     display: block
     margin: 0 auto
     width: 1200px
+    position: relative
     //width: calc(100% - 40px)
     //margin: 0 20px
     background: white
@@ -106,3 +109,81 @@ header
     @media only screen and (max-width: 1240px)
       width: calc(100% - 40px)
       margin: 0 20px
+
+    .main-post
+      display: block
+      margin: 0
+      padding: 0
+      background: $blue1
+      width: 800px
+      height: 400px
+      position: relative
+      overflow: auto
+      float: left
+
+      .post-link-1
+        font-family: 'Roboto', sans-serif
+        font-size: 36px
+        font-weight: bold
+        color: white
+        margin: 15px
+        padding: 0
+
+        a, a:hover, a:visited
+          color: white
+          text-decoration: none
+
+      .post-excerpt
+        font-family: 'Open Sans', sans-serif
+        font-size: 18px
+        color: $background
+        margin: 0 15px
+        padding: 0
+
+      .post-date-1
+        font-family: 'Roboto', sans-serif
+        font-size: 20px
+        font-weight: bold
+        color: white
+        margin: 0
+        padding: 0
+        position: absolute
+        bottom: 15px
+        left: 15px
+
+    .side-post
+      display: block
+      overflow: auto
+      margin: 0
+      padding: 0
+      background: $blue2
+      width: 400px
+      height: 200px
+      float: right
+      position: relative
+
+      .post-link-2
+        font-family: 'Roboto', sans-serif
+        font-size: 24px
+        font-weight: bold
+        color: white
+        margin: 10px
+        padding: 0
+
+        a, a:hover, a:visited
+          color: white
+          text-decoration: none
+
+      .post-date-2
+        font-family: 'Roboto', sans-serif
+        font-size: 16px
+        font-weight: bold
+        color: white
+        margin: 0
+        padding: 0
+        position: absolute
+        bottom: 10px
+        left: 10px
+
+    .darker
+      background: $blue3
