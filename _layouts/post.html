@@ -12,8 +12,47 @@ layout: default
         {% endfor %}
       </p>
     {% endif %}
+    <div class="post-ad-top-wrapper">
+      <div class="post-ad-top">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Hoops post ad top -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-8692643521715142"
+             data-ad-slot="5369240137"
+             data-ad-test="on"
+             data-ad-format="horizontal"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+    </div>
   </header>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+  </div>
+  <div class="post-sidebar">
+    <div class="ad-post-sidebar-wrapper">
+      <div class="ad-post-sidebar">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Hoops post sidebar -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:336px;height:280px"
+             data-ad-client="ca-pub-8692643521715142"
+             data-ad-test="on"
+             data-ad-slot="6845973337"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+    </div>
+    <h3>Recent Posts</h3>
+    {% for post in site.posts limit: 3 %}
+      <div class="post">
+        <h2 class="post-link">
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </div>
+    {% endfor %}
   </div>
 </article>
