@@ -2,7 +2,9 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2016-06-29 18:08:29 -0500
-categories: jekyll update
+tags:
+ - test
+ - testing
 excerpt: >
   This is a dummy post excerpt that I can use to describe a dummy post so I can work with my template.
 ---

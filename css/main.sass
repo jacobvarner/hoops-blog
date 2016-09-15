@@ -76,17 +76,73 @@ header
 
 #sidebar
   position: absolute
+  overflow: scroll
   right: 0px
   top: 50px
   z-index: 89
   width: 300px
   background: $sidebar
-  height: calc(100% - 50px)
+  height: calc(100% - 100px)
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.4)
   transition: right 0.3s ease-in
   -webkit-transition: right 0.3s ease-in
 
   @media only screen and (max-width: 1540px)
     right: -300px
+
+  .sidebar-heading
+    display: block
+    width: 300px
+    font-size: 20px
+    line-height: 20px
+    background: $blue2
+    color: white
+    padding: 10px 20px 15px
+
+  .sidebar-social-link
+    display: block
+    font-family: 'Open Sans', sans-serif
+    font-size: 18px
+    color: white
+    text-decoration: none
+    margin: 5px 20px
+
+    &:visited
+      color: white
+      text-decoration: none
+
+    &:hover
+      color: $blue2
+
+  .sidebar-rankings-link
+    display: block
+    font-family: 'Open Sans', sans-serif
+    font-size: 18px
+    color: white
+    text-decoration: none
+    margin: 5px 20px
+
+    &:visited
+      color: white
+      text-decoration: none
+
+    &:hover
+      color: $blue2
+
+  .sidebar-tag
+    display: block
+    font-family: 'Open Sans', sans-serif
+    font-size: 18px
+    color: white
+    text-decoration: none
+    margin: 5px 20px
+
+    &:visited
+      color: white
+      text-decoration: none
+
+    &:hover
+      color: $blue2
 
 ///////////
 // INDEX //
@@ -223,6 +279,31 @@ header
         margin: 5px 10px 10px 10px
         padding: 0
 
+      .post-tags
+        font-family: 'Roboto', sans-serif
+        font-size: 14px
+        font-weight: normal
+        margin: 10px
+        color: $blue2
+
+        a, a:visited
+          text-decoration: none
+          padding: 2px 10px 5px
+          margin: 0px 3px
+          display: inline-block
+          background: $blue2
+          border-radius: 5px
+          color: white
+
+        a:hover
+          text-decoration: none
+          padding: 2px 10px 5px
+          margin: 0px 3px
+          display: inline-block
+          background: $blue1
+          border-radius: 5px
+          color: white
+
     .ad-index-wrapper
       display: block
       width: 799px
@@ -285,3 +366,271 @@ footer
     @media only screen and (max-width: 600px)
       font-size: 12px
       line-height: 40px
+
+//////////////
+// TAG PAGE //
+//////////////
+
+.tag-page-wrapper
+  display: block
+  width: 1200px
+  margin: 0 auto
+  background: white
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.4)
+  position: relative
+  overflow: auto
+
+  h2
+    font-family: 'Roboto', sans-serif
+    font-size: 36px
+    line-height: 48px
+    font-weight: bold
+    margin: 20px 30px
+    color: $blue3
+
+  .tag-post
+    display: block
+    width: 100%
+    margin: 0
+    padding: 0
+    overflow: auto
+    position: relative
+    border-top: 1px solid $background
+
+    .tag-post-link
+      font-family: 'Roboto', sans-serif
+      font-size: 28px
+      font-weight: bold
+      margin: 20px 10px 10px 20px
+      padding: 0
+
+      a, a:hover, a:visited
+        color: $blue1
+        text-decoration: none
+
+    .tag-post-date
+      font-family: 'Roboto', sans-serif
+      font-weight: bold
+      font-size: 16px
+      color: $dark-grey
+      margin: 5px 10px 10px 20px
+      padding: 0
+
+    .tag-post-tags
+      font-family: 'Roboto', sans-serif
+      font-size: 14px
+      font-weight: normal
+      margin: 10px 10px 20px 20px
+      color: $blue2
+
+      a, a:visited
+        text-decoration: none
+        padding: 2px 10px 5px
+        margin: 0px 3px
+        display: inline-block
+        background: $blue2
+        border-radius: 5px
+        color: white
+
+      a:hover
+        text-decoration: none
+        padding: 2px 10px 5px
+        margin: 0px 3px
+        display: inline-block
+        background: $blue1
+        border-radius: 5px
+        color: white
+
+///////////////
+// POST PAGE //
+///////////////
+
+.post-wrapper
+  display: block
+  width: 1200px
+  margin: 0 auto
+  background: white
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.4)
+  position: relative
+  overflow: auto
+
+  .post-header
+    width: 800px
+    display: block
+
+    .post-title
+      font-family: 'Roboto', sans-serif
+      font-size: 36px
+      line-height: 48px
+      font-weight: bold
+      margin: 20px 30px
+      color: $blue1
+
+    .post-meta
+      font-family: 'Roboto', sans-serif
+      font-size: 18px
+      font-weight: normal
+      margin: 0px 30px
+      color: $dark-grey
+
+    .post-tags
+      font-family: 'Roboto', sans-serif
+      font-size: 18px
+      font-weight: normal
+      margin: 20px 30px
+      color: $blue2
+
+      a, a:visited
+        text-decoration: none
+        padding: 2px 10px 5px
+        margin: 0px
+        display: inline-block
+        background: $blue2
+        border-radius: 5px
+        color: white
+
+      a:hover
+        text-decoration: none
+        padding: 2px 10px 5px
+        margin: 0px
+        display: inline-block
+        background: $blue1
+        border-radius: 5px
+        color: white
+
+    .post-ad-top-wrapper
+      width: 800px
+      display: block
+      margin: 0
+      padding: 0
+      overflow: auto
+
+      .post-ad-top
+        margin: 20px 20px 10px
+
+  .post-sidebar
+    width: 399px
+    height: 100%
+    display: block
+    position: absolute
+    overflow: auto
+    right: 0
+    top: 0
+    border-left: 1px solid $background
+
+    .ad-post-sidebar-wrapper
+      display: block
+      width: 100%
+      margin: 0
+      padding: 0
+      overflow: auto
+
+      .ad-post-sidebar
+        margin: 20px 30px 20px 29px
+
+    h3
+      display: block
+      width: 400px
+      height: 50px
+      background: $blue3
+      color: white
+      font-family: 'Roboto', sans-serif
+      font-size: 24px
+      font-weight: bold
+      line-height: 50px
+      padding: 0px 15px
+      margin: 0
+
+    .sidebar-post
+      display: block
+      border-bottom: 1px solid $background
+
+      .sidebar-post-link
+        font-family: 'Roboto', sans-serif
+        font-size: 18px
+        font-weight: bold
+        color: $blue1
+        margin: 15px 20px
+
+        a, a:hover, a:visited
+          color: $blue1
+          text-decoration: none
+
+/////////////////////
+// MARKDOWN STYLES //
+/////////////////////
+
+.post-content
+  width: 760px
+  padding: 20px
+  overflow: auto
+
+  h1
+    font-family: 'Roboto', sans-serif
+    font-weight: bold
+    font-size: 30px
+    color: $blue1
+    padding: 0
+    margin: 10px 15px 10px 0px
+
+  h2
+    font-family: 'Roboto', sans-serif
+    font-weight: bold
+    font-size: 24px
+    color: $blue1
+    margin: 10px 10px 10px 0px
+
+  h3
+    font-family: 'Roboto', sans-serif
+    font-weight: bold
+    font-size: 22px
+    color: $blue1
+    margin: 5px 5px 5px 0px
+
+  h4
+    font-family: 'Roboto', sans-serif
+    font-weight: bold
+    font-size: 20px
+    color: $blue1
+    margin: 5px 5px 5px 0px
+
+  h5
+    font-family: 'Roboto', sans-serif
+    font-weight: bold
+    font-size: 18px
+    color: $blue1
+    margin: 5px 5px 5px 0px
+
+  h6
+    font-family: 'Roboto', sans-serif
+    font-weight: bold
+    font-size: 16px
+    color: $blue1
+    margin: 5px 5px 5px 0px
+
+  p
+    font-family: 'Open Sans', sans-serif
+    font-size: 14px
+    font-weight: normal
+    color: black
+    line-height: 24px
+
+  img
+    float: left
+    clear: both
+    margin: 10px
+    margin-left: 0px
+
+  table
+    border-collapse: collapse
+    margin: 20px 0
+
+    th
+      border: 2px solid $blue3
+      padding: 10px
+      background: $blue3
+      color: white
+
+    td
+      border: 1px solid $dark-grey
+      padding: 10px

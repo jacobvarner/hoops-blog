@@ -26,16 +26,21 @@
     </div>
   </div>
   <nav id="sidebar">
-    <ul>
-      <li><a href="#">Top 25 Rankings</a></li>
-      <li><a href="#">SEC Power Rankings</a></li>
-      <li>
-        <p>Archive</p>
-        <ul>
-          <li>2016</li>
-        </ul>
-      </li>
-      <li><a href="https://www.twitter.com/jacobvarner14">@jacobvarner14</a></li>
-    </ul>
+    <h3 class="sidebar-heading"><i class="fa fa-external-link" aria-hidden="true"></i>
+ Links</h3>
+    <a class="sidebar-social-link" href="https://www.twitter.com/jacobvarner14" taget="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>
+ @jacobvarner14</a>
+    <h3 class="sidebar-heading"><i class="fa fa-line-chart" aria-hidden="true"></i>
+ Rankings</h3>
+    <a class="sidebar-rankings-link" href="{{ site.baseurl }}/tag/Top 25 Rankings/">Top 25 Rankings</a>
+    <a class="sidebar-rankings-link" href="{{ site.baseurl }}/tag/SEC Power Rankings/">SEC Power Rankings</a>
+    <h3 class="sidebar-heading"><i class="fa fa-tags" aria-hidden="true"></i> Tags</h3>
+    {% for tag in site.tags %}
+    {% unless tag.first == 'Top 25 Rankings' %}
+    {% unless tag.first == 'SEC Power Rankings' %}
+      <a class="sidebar-tag" href="{{ site.baseurl }}/tag/{{ tag | first }}">{{ tag | first }}</a>
+    {% endunless %}
+    {% endunless %}
+    {% endfor %}
   </nav>
 </header>

@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
     <p class="post-meta"><i class="fa fa-user" aria-hidden="true"></i> Jacob Varner | <i class="fa fa-clock-o" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
     {% if page.tags.size != 0 %}
       <p class="post-tags"><i class="fa fa-tags" aria-hidden="true"></i>
         {% for tag in page.tags %}
-          <a class="tags" href="/tag/{{ tag }}">{{ tag }}</a>
+          <a class="tags" href="/tag/{{ tag }}/">{{ tag }}</a>
         {% endfor %}
       </p>
     {% endif %}
@@ -47,9 +47,9 @@ layout: default
       </div>
     </div>
     <h3>Recent Posts</h3>
-    {% for post in site.posts limit: 3 %}
-      <div class="post">
-        <h2 class="post-link">
+    {% for post in site.posts limit: 5 %}
+      <div class="sidebar-post">
+        <h2 class="sidebar-post-link">
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </div>
