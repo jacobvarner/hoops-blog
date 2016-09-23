@@ -1,12 +1,12 @@
 <header class="site-header">
   <div class="wrapper">
-    <a class="site-logo" href="{{ site.baseurl }}/">
-      <img id="logo" src="{{ site.baseurl }}/assets/images/logo.png" alt="Jacob Varner's Hoops Blog logo" />
+    <a class="site-logo" href="{{ site.baseurl | prepend: site.github.url }}/">
+      <img id="logo" src="{{ site.baseurl | prepend: site.github.url }}/assets/images/logo.png" alt="Jacob Varner's Hoops Blog logo" />
       <h1>{{ site.title }}</h1>
     </a>
     <div id="menu-togle">
       <a id="menu" onClick="toggleMenu()">
-        <img id="menu-icon" class="closed" src="{{ site.baseurl }}/assets/images/menu_open.png" alt="Open menu icon" />
+        <img id="menu-icon" class="closed" src="{{ site.baseurl | prepend: site.github.url }}/assets/images/menu_open.png" alt="Open menu icon" />
       </a>
     </div>
   </div>
@@ -17,7 +17,6 @@
       <ins class="adsbygoogle"
         style="display:block"
         data-ad-client="ca-pub-8692643521715142"
-        data-ad-test="on"
         data-ad-slot="8387072138"
         data-ad-format="horizontal"></ins>
       <script>
@@ -33,13 +32,13 @@
  <a class="sidebar-social-link" href="http://www.auburnbasketballstats.com" taget="_blank"><i class="fa fa-list-ol" aria-hidden="true"></i> Auburn Basketball Stats</a>
     <h3 class="sidebar-heading"><i class="fa fa-line-chart" aria-hidden="true"></i>
  Rankings</h3>
-    <a class="sidebar-rankings-link" href="{{ site.baseurl }}/tag/Top 25 Rankings/">Top 25 Rankings</a>
-    <a class="sidebar-rankings-link" href="{{ site.baseurl }}/tag/SEC Power Rankings/">SEC Power Rankings</a>
+    <a class="sidebar-rankings-link" href="{{ site.baseurl | prepend: site.github.url }}/tag/Top 25 Rankings/">Top 25 Rankings</a>
+    <a class="sidebar-rankings-link" href="{{ site.baseurl | prepend: site.github.url }}/tag/SEC Power Rankings/">SEC Power Rankings</a>
     <h3 class="sidebar-heading"><i class="fa fa-tags" aria-hidden="true"></i> Tags</h3>
     {% for tag in site.tags %}
     {% unless tag.first == 'Top 25 Rankings' %}
     {% unless tag.first == 'SEC Power Rankings' %}
-      <a class="sidebar-tag" href="{{ site.baseurl }}/tag/{{ tag | first }}">{{ tag | first }}</a>
+      <a class="sidebar-tag" href="{{ site.baseurl | prepend: site.github.url }}/tag/{{ tag | first }}">{{ tag | first }}</a>
     {% endunless %}
     {% endunless %}
     {% endfor %}

@@ -10,7 +10,7 @@ layout: default
     {% if tag == page.tag %}
     <div class="tag-post">
       <h2 class="tag-post-link">
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a href="{{ post.url | prepend: site.baseurl | prepend: site.github.url }}">{{ post.title }}</a>
       </h2>
       <p class="tag-post-date"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
       {% if post.tags.size != 0 %}
