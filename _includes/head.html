@@ -7,7 +7,8 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/normalize.css" | prepend: site.baseurl | prepend: site.github.url }}">
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.github.url }}">
+  {% styles main %}
+
   <link rel="shortcut icon" href="/favicon.ico">
   <script src="{{ "/js/sidebar.js" | prepend: site.baseurl | prepend: site.github.url }}"></script>
   <script src="https://use.fontawesome.com/cf817fc919.js"></script>
