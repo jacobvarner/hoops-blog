@@ -27,3 +27,10 @@ kramdown:
   input:          GFM
   hard_wrap:      false
   footnote_nr:    1
+
+assets:
+  sources:
+    - _assets/css
+    - _assets/images
+    - _assets/js
+   # etc.
