@@ -39,7 +39,7 @@
     {% for tag in site.tags %}
     {% unless tag.first == 'Top 25 Rankings' %}
     {% unless tag.first == 'SEC Power Rankings' %}
-      <a class="sidebar-tag" href="{{ site.baseurl | prepend: site.github.url }}/tag/{{ tag | first }}">{{ tag | first }}</a>
+      <a class="sidebar-tag" href="{{ site.baseurl | prepend: site.github.url }}/tag/{{ tag | first }}">{{ tag | first }} <span class="tag-count">{{ tag.size }}</span></a>
     {% endunless %}
     {% endunless %}
     {% endfor %}

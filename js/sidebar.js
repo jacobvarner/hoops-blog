@@ -12,6 +12,5 @@ function toggleMenu() {
     setTimeout(function(){document.getElementById("sidebar").style.display = "none"}, 300);
     document.getElementById("menu-icon-closed").style.display = "block";
     document.getElementById("menu-icon-open").style.display = "none";
-    document.getElementById("menu-icon").className = "closed";
   }
 }
