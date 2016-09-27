@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tag
 slug: testing
 name: Testing
 ---

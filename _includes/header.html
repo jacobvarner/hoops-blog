@@ -33,13 +33,13 @@
  <a class="sidebar-social-link" href="http://www.auburnbasketballstats.com" taget="_blank"><i class="fa fa-list-ol" aria-hidden="true"></i> Auburn Basketball Stats</a>
     <h3 class="sidebar-heading"><i class="fa fa-line-chart" aria-hidden="true"></i>
  Rankings</h3>
-    <a class="sidebar-rankings-link" href="{{ "/tag/top-25-rankings/" prepend: site.baseurl | prepend: site.github.url }}">Top 25 Rankings</a>
-    <a class="sidebar-rankings-link" href="{{ "/tag/sec-power-rankings/" prepend: site.baseurl | prepend: site.github.url }}">SEC Power Rankings</a>
+    <a class="sidebar-rankings-link" href="/tag/top-25-rankings/">Top 25 Rankings</a>
+    <a class="sidebar-rankings-link" href="/tag/sec-power-rankings/">SEC Power Rankings</a>
     <h3 class="sidebar-heading"><i class="fa fa-tags" aria-hidden="true"></i> Tags</h3>
-    {% for tag in site.tags %}
+    {% for tag in site.my_tags %}
     {% unless tag.name == 'Top 25 Rankings' %}
     {% unless tag.name == 'SEC Power Rankings' %}
-      <a class="sidebar-tag" href="{{ "{{ tag.slug }}" prepend: site.baseurl | prepend: site.github.url }}">{{ tag.name }}</a>
+      <a class="sidebar-tag" href="/tag/{{ tag.slug }}/">{{ tag.name }}</a>
     {% endunless %}
     {% endunless %}
     {% endfor %}
