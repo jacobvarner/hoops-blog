@@ -1,17 +1,26 @@
 ---
 layout: default
 ---
+
+{% assign post = page %}
+
+{% if post.tags.size > 0 %}
+  {% capture tags_content %}<i class="fa fa-tags" aria-hidden="true"></i>{% endcapture %}
+  {% for post_tag in post.tags %}
+    {% assign tag = site.my_tags | where: "slug", post_tag %}
+    {% if tag %}
+      {% assign tag = tag[0] %}
+      {% capture tags_content_temp %}{{ tags_content }}<a href="{{ tag.url }}">{{ tag.name }}</a>{% endcapture %}
+      {% assign tags_content = tags_content_temp %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
 <article class="post-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
     <p class="post-meta"><i class="fa fa-user" aria-hidden="true"></i> Jacob Varner | <i class="fa fa-clock-o" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
-    {% if page.tags.size != 0 %}
-      <p class="post-tags"><i class="fa fa-tags" aria-hidden="true"></i>
-        {% for tag in page.tags %}
-          <a class="tags" href="/tag/{{ tag }}/">{{ tag }}</a>
-        {% endfor %}
-      </p>
-    {% endif %}
+    <p class="post-tags">{{ tags_content }}</p>
     <div class="post-ad-top-wrapper">
       <div class="post-ad-top">
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

@@ -9,7 +9,7 @@
 title: Jacob Varner's Hoops Blog
 email: jacob.varner14@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  College basketball thoughts and analysis from Jacob Varner with a focus mostly on Auburn and the SEC.
+  Jacob Varner's thoughts and analysis covering all of college basketball with a focus on Auburn and the SEC.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hoops.jacobvarner.com" # the base hostname & protocol for your site
 twitter_username: jacobvarner14
@@ -28,9 +28,7 @@ kramdown:
   hard_wrap:      false
   footnote_nr:    1
 
-assets:
-  sources:
-    - _assets/css
-    - _assets/images
-    - _assets/js
-   # etc.
+collections:
+  my_tags:
+    output: true
+    permalink: /tag/:name/

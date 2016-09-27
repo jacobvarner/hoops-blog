@@ -2,9 +2,7 @@
 layout: post
 title:  "This is a Longer Title to Test the Template for the Test Post"
 date:   2016-06-28 18:08:29 -0500
-tags:
- - test
- - template
+tags: [test, testing]
 excerpt: >
   This is a dummy post excerpt that I can use to describe a dummy post so I can work with my template.
 ---
