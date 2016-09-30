@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts limit:1 %}
     <div class="main-post">
       <h2 class="post-link-1">
-        <a href="{{ post.url | prepend: site.baseurl | prepend: site.github.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.title }}</a>
       </h2>
       <p class="post-excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
       <p class="post-date-1"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
@@ -15,7 +15,7 @@ layout: default
   {% for post in site.posts limit:1 offset:1 %}
     <div class="side-post">
       <h2 class="post-link-2">
-        <a href="{{ post.url | prepend: site.baseurl | prepend: site.github.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.title }}</a>
       </h2>
       <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
     </div>
@@ -23,7 +23,7 @@ layout: default
   {% for post in site.posts limit:1 offset:2 %}
     <div class="side-post darker">
       <h2 class="post-link-2">
-        <a href="{{ post.url | prepend: site.baseurl | prepend: site.github.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.title }}</a>
       </h2>
       <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
     </div>
@@ -31,7 +31,7 @@ layout: default
   {% for post in site.posts limit:3 offset:3 %}
     <div class="post">
       <h2 class="post-link">
-        <a href="{{ post.url | prepend: site.baseurl | prepend: site.github.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.title }}</a>
       </h2>
       <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
       {% if post.tags.size != 0 %}
@@ -61,7 +61,7 @@ layout: default
   {% for post in site.posts offset:6 %}
     <div class="post">
       <h2 class="post-link">
-        <a href="{{ post.url | prepend: site.baseurl | prepend: site.github.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.title }}</a>
       </h2>
       <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
       {% if post.tags.size != 0 %}
