@@ -1,5 +1,0 @@
----
-layout: tag
-slug: testing
-name: Testing
----
