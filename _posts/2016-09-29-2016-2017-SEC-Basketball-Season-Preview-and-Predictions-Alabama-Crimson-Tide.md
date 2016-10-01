@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2016-2017 SEC Basketball Season Preview and Predictions: Alabama Crimson Tide"
-date:   2016-09-30 11:00:00 -0500
+date:   2016-09-30 11:00:00 -0600
 tags: [alabama-crimson-tide]
 excerpt: >
   Alabama is heading into year two with head coach Avery Johnson. The Crimson Tide bring in several newcomers and will be looking for the added talent to step up and minimize the loss of Retin Obasohan. Alabama fell to Creighton in the first round of the NIT last season and will look to get back once again.
