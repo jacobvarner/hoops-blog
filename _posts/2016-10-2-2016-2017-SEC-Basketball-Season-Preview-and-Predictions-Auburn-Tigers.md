@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2016-2017 SEC Basketball Season Preview and Predictions: Auburn Tigers"
-date:   2016-10-2 9:30:00 -0600
+date:   2016-10-2 3:35:00 -0600
 tags: [auburn-tigers]
 excerpt: >
   Bruce Pearl is heading into year three on the Plains, and the third year could be the charm. Auburn finally has the depth and athleticism to resemble a typical Bruce Pearl basketball team. Can the Tigers take advantage of a fairly favorable SEC schedule to finally make it to the post season?
@@ -45,7 +45,7 @@ Will the influx of talent and a favorable league schedule be enough for the Tige
 
 **\#3 Danjel Purifoy**, 6'7" F - 4-star highly anticipated player, forced to sit out last season
 
-**\#4 T.J. Dunans **, 6'5" G - Leading returning scorer, despite sitting out half of last season
+**\#4 T.J. Dunans**, 6'5" G - Leading returning scorer, despite sitting out half of last season
 
 **\#5 Mustapha Heron**, 6'5" G - The first 5-star recruit for Auburn basketball
 
