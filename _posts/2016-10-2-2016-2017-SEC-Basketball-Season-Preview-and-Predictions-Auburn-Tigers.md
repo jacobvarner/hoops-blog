@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2016-2017 SEC Basketball Season Preview and Predictions: Auburn Tigers"
-date:   2016-10-02 9:30:00 -0600
+date:   2016-10-2 9:30:00 -0600
 tags: [auburn-tigers]
 excerpt: >
   Bruce Pearl is heading into year three on the Plains, and the third year could be the charm. Auburn finally has the depth and athleticism to resemble a typical Bruce Pearl basketball team. Can the Tigers take advantage of a fairly favorable SEC schedule to finally make it to the post season?

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2016-2017 SEC Basketball Season Preview and Predictions: Arkansas Razorbacks"
-date:   2016-10-01 11:00:00 -0600
+date:   2016-10-1 11:00:00 -0600
 tags: [arkansas-razorbacks]
 excerpt: >
   Arkansas brings back their two leading scorers from last season and also reloads with a ton of top junior college talent. The Razorbacks have the ability to be similar to South Carolina last season and take advantage of a poor non-conference schedule to sling them into consideration in the SEC.
