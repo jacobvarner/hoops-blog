@@ -9,7 +9,7 @@ layout: default
         <a href="{{ post.url }}">{{ post.title }}</a>
       </h2>
       <p class="post-excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-      <p class="post-date-1"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
+      <p class="post-date-1"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>
     </div>
   {% endfor %}
   {% for post in site.posts limit:1 offset:1 %}
@@ -17,7 +17,7 @@ layout: default
       <h2 class="post-link-2">
         <a href="{{ post.url }}">{{ post.title }}</a>
       </h2>
-      <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
+      <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>
     </div>
   {% endfor %}
   {% for post in site.posts limit:1 offset:2 %}
@@ -25,7 +25,7 @@ layout: default
       <h2 class="post-link-2">
         <a href="{{ post.url }}">{{ post.title }}</a>
       </h2>
-      <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
+      <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>
     </div>
   {% endfor %}
   {% for post in site.posts limit:3 offset:3 %}
@@ -33,7 +33,7 @@ layout: default
       <h2 class="post-link">
         <a href="{{ post.url }}">{{ post.title }}</a>
       </h2>
-      <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
+      <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>
       {% if post.tags.size != 0 %}
         <p class="post-tags"><i class="fa fa-tags" aria-hidden="true"></i>
           {% for post_tag in post.tags %}
@@ -63,7 +63,7 @@ layout: default
       <h2 class="post-link">
         <a href="{{ post.url }}">{{ post.title }}</a>
       </h2>
-      <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
+      <p class="post-date-2"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>
       {% if post.tags.size != 0 %}
         <p class="post-tags"><i class="fa fa-tags" aria-hidden="true"></i>
           {% for post_tag in post.tags %}
