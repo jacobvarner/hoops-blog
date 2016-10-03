@@ -88,4 +88,4 @@ If Mike White can put together the talent the Gators have this season and make h
 
 * Will play most of their non-conference games at neutral sites across Florida while renovations to the O'Connell Center are finished
 
-## Record: 23-8 (12-6 SEC)
+## Record: 21-10 (11-7 SEC)
