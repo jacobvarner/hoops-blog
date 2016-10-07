@@ -77,7 +77,7 @@ LSU is going to be near the bottom, if not all the way at the bottom of the SEC 
 | @ Arkansas                            | L   |
 | vs Florida                            | L   |
 | @ Texas Tech                          | L   |
-| vs South Carolin                      | W   |
+| vs South Carolina                     | W   |
 | vs Texas A&M                          | L   |
 | @ Kentucky                            | L   |
 | vs Arkansas                           | L   |
