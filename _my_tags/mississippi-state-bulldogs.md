@@ -1,5 +1,5 @@
 ---
 layout: tag
-slug: lsu-tigers
-name: LSU Tigers
+slug: mississippi-state-bulldogs
+name: Mississippi State Bulldogs
 ---
