@@ -28,7 +28,7 @@ I think Missouri can win a few of their home games against lower teams but that 
 
 **\#4 Jakoby Kemp**, 6'9" 3-star F from Layton HS
 
-**\#4 Mitchell Smith**, 6'9" 3-star F from Van Buren HS
+**\#5 Mitchell Smith**, 6'9" 3-star F from Van Buren HS
 
 **\#13 Trevor Glassman**, 6'3" G transfer from Manhattan
 
