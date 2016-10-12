@@ -16,8 +16,8 @@ twitter:
 timezone: America/Chicago
 logo: /assets/images/logo.png
 
-gem:
-  -jekyll-seo-tag
+gems:
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
