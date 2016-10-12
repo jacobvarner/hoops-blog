@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-2017 SEC Basketball Season Preview: Mississippi State Bulldogs
+title: "2016-2017 SEC Basketball Season Preview: Mississippi State Bulldogs"
 desciption: >
   In the second year under Ben Howland, the Mississippi State Bulldogs have a ton of talented newcomers that will look to improve the on the court showing.
 date:   2016-10-7 11:00:00 -0600

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-2017 SEC Basketball Season Preview: Texas A&M Aggies
+title: "2016-2017 SEC Basketball Season Preview: Texas A&M Aggies"
 desciption: >
   After making it all the way to the Sweet 16 last season, Billy Kennedy and Texas A&M are looking to remain atop the SEC right behind the Kentucky Wildcats.
 date:   2016-10-12 11:00:00 -0600

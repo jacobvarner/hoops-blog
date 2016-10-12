@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-2017 SEC Basketball Season Preview: Kentucky Wildcats
+title: "2016-2017 SEC Basketball Season Preview: Kentucky Wildcats"
 desciption: >
   John Calipari and the Kentucky Wildcats have once again reloaded with the nation's top talent and are looking at another deep run in March Madness.
 date:   2016-10-5 11:00:00 -0600

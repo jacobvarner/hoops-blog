@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-2017 SEC Basketball Season Preview: Arkansas Razorbacks
+title: "2016-2017 SEC Basketball Season Preview: Arkansas Razorbacks"
 desciption: >
   Arkansas brings back their two leading scorers and also reloads with top JuCo talent. The Razorbacks could make a run similar to South Carolina's last year.
 date:   2016-10-1 11:00:00 -0600

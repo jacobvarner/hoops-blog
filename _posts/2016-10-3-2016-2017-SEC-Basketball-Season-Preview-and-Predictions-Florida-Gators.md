@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-2017 SEC Basketball Season Preview: Florida Gators
+title: "2016-2017 SEC Basketball Season Preview: Florida Gators"
 desciption: >
   Mike White is in year two and the Florida Gators are looking like a team that can make a case for one of the top teams behind the Kentucky Wildcats.
 date:   2016-10-3 11:00:00 -0600

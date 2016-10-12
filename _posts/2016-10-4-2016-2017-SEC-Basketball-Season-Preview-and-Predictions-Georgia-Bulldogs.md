@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-2017 SEC Basketball Season Preview: Georgia Bulldogs
+title: "2016-2017 SEC Basketball Season Preview: Georgia Bulldogs"
 desciption: >
   J.J. Frazier and Yante Maten will be two of the best players in the SEC this season and they could very well lead the Georgia Bulldogs to the top of the SEC.
 date:   2016-10-4 11:00:00 -0600

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-2017 SEC Basketball Season Preview: South Carolina Gamecocks
+title: "2016-2017 SEC Basketball Season Preview: South Carolina Gamecocks"
 desciption: >
   Frank Martin will set out to prove he's one of the top coaches in the SEC this season as South Carolina will attempt to make another run to March Madness.
 date:   2016-10-10 11:00:00 -0600

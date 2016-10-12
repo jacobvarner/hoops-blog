@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2016-2017 SEC Basketball Season Preview: Ole Miss Rebels
+title:  "2016-2017 SEC Basketball Season Preview: Ole Miss Rebels"
 desciption: >
   Andy Kennedy hasn't had less than 19 wins at Ole Miss since 2009, but that streak could be in jeopardy this season without high flying Stefan Moody.
 date:   2016-10-9 11:00:00 -0600

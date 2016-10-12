@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-2017 SEC Basketball Season Preview: Auburn Tigers
+title: "2016-2017 SEC Basketball Season Preview: Auburn Tigers"
 desciption: >
   In year three under Bruce Pearl, the Auburn Tigers finally have the talent and depth to make some noise in the SEC and could finally make the postseason.
 date:   2016-10-2 9:30:00 -0600

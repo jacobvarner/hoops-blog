@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-2017 SEC Basketball Season Preview: Tennessee Volunteers
+title: "2016-2017 SEC Basketball Season Preview: Tennessee Volunteers"
 desciption: >
   Rick Barnes enters his second season as the Tennessee head coach and has quite a challenge with a brutal non-conference schedule and untested newcomers.
 date:   2016-10-11 11:00:00 -0600

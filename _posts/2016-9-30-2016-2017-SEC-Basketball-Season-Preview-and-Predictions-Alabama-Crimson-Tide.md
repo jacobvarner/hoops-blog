@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2016-2017 SEC Basketball Season Preview: Alabama Crimson Tide
+title:  "2016-2017 SEC Basketball Season Preview: Alabama Crimson Tide"
 desciption: >
   The Alabama Crimson Tide bring in several newcomers and will be looking for the added talent to step up in hopes of making another run to the postseason.
 date:   2016-9-30 11:00:00 -0600

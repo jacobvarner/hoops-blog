@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-2017 SEC Basketball Season Preview: Missouri Tigers
+title: "2016-2017 SEC Basketball Season Preview: Missouri Tigers"
 desciption: >
   After a disappointing offseason with players leaving and being dismissed, Kim Anderson will have to rely on Terrence Phillips and Kevin Puryear to survive.
 date:   2016-10-8 7:00:00 -0600

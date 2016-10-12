@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-2017 SEC Basketball Season Preview: LSU Tigers
+title: "2016-2017 SEC Basketball Season Preview: LSU Tigers"
 desciption: >
   A year after Ben Simmons wowed the country on his way to declining an NIT invite, LSU could be in trouble with Johnny Jones still at the helm.
 date:   2016-10-6 11:00:00 -0600
