@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2016-2017 SEC Basketball Season Preview and Predictions: Georgia Bulldogs"
+title: 2016-2017 SEC Basketball Season Preview: Georgia Bulldogs
+desciption: >
+  J.J. Frazier and Yante Maten will be two of the best players in the SEC this season and they could very well lead the Georgia Bulldogs to the top of the SEC.
 date:   2016-10-4 11:00:00 -0600
 tags: [georgia-bulldogs]
-excerpt: >
-  Mark Fox and the Georgia Bulldogs return their top two scorers from last season in J.J. Frazier and Yante Maten, but after that it will be quite a few question marks this season. If the newcomers and rest of the team can fill in some holes, the Bulldogs could be another team to contend in the SEC.
 ---
 ### Overview
 Georgia returns their two leading scorers from last season in J.J. Frazier and Yante Maten who both averaged over 16 PPG. However, while the two upperclassmen will be a big attribute for the Bulldogs, the supporting cast is also going to have to come together for Georgia to really do some damage in the SEC.

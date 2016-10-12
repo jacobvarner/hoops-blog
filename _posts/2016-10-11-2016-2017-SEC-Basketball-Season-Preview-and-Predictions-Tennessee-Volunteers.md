@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2016-2017 SEC Basketball Season Preview and Predictions: Tennessee Volunteers"
+title: 2016-2017 SEC Basketball Season Preview: Tennessee Volunteers
+desciption: >
+  Rick Barnes enters his second season as the Tennessee head coach and has quite a challenge with a brutal non-conference schedule and untested newcomers.
 date:   2016-10-11 11:00:00 -0600
 tags: [tennessee-volunteers]
-excerpt: >
-  Rick Barnes enters his second season as the Tennessee head coach and he's in for quite a challenge. The Volunteers have a brutal non-conference with a handful of newcomers they hope are up to the task.
 ---
 ### Overview
 Tennessee struggled last season and now comes into the 2016-2017 season after losing their top two players. On top of losing Armani Moore and Kevin Punter, the Volunteers have to face a gauntlet of a non-conference schedule with games against Wisconsin, North Carolina, and Gonzaga among other difficult tests.

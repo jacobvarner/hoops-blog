@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2016-2017 SEC Basketball Season Preview and Predictions: Florida Gators"
+title: 2016-2017 SEC Basketball Season Preview: Florida Gators
+desciption: >
+  Mike White is in year two and the Florida Gators are looking like a team that can make a case for one of the top teams behind the Kentucky Wildcats.
 date:   2016-10-3 11:00:00 -0600
 tags: [florida-gators]
-excerpt: >
-  Mike White heads into year two with the Florida Gators after taking over from the legendary Billy Donovan. With a wide open SEC, the Florida Gators are tabbed as one of the teams that could make a case for the top behind the Kentucky Wildcats.
 ---
 ### Overview
 Florida, in its second season under Mike White, looks to be a team that many think can vie for a top spot in the SEC behind Kentucky. Mike White had success before at Louisiana Tech and has enough talent at Florida this season to make a run through the SEC.

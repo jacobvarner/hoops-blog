@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2016-2017 SEC Basketball Season Preview and Predictions: LSU Tigers"
+title: 2016-2017 SEC Basketball Season Preview: LSU Tigers
+desciption: >
+  A year after Ben Simmons wowed the country on his way to declining an NIT invite, LSU could be in trouble with Johnny Jones still at the helm.
 date:   2016-10-6 11:00:00 -0600
 tags: [lsu-tigers]
-excerpt: >
-  Johnny Jones and the LSU Tigers are preparing for the season after Ben Simmons. Even with the eventual #1 pick last season, LSU struggled to win games that many thought they would win. Things don't look great with the same coaching staff and one less generational talent.
 ---
 ### Overview
 Last season it was hard for anyone to write or talk about LSU without mentioning Ben Simmons. Now, just a year later, it's almost equally hard to not write about his absence. LSU still has two talented players in Craig Victor II and Antonio Blakeney from last season but they haven't reloaded with a whole lot.

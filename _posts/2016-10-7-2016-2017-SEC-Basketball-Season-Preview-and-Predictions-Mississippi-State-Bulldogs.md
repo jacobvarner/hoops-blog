@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2016-2017 SEC Basketball Season Preview and Predictions: Mississippi State Bulldogs"
+title: 2016-2017 SEC Basketball Season Preview: Mississippi State Bulldogs
+desciption: >
+  In the second year under Ben Howland, the Mississippi State Bulldogs have a ton of talented newcomers that will look to improve the on the court showing.
 date:   2016-10-7 11:00:00 -0600
 tags: [mississippi-state-bulldogs]
-excerpt: >
-  In the second year under Ben Howland, the Mississippi State Bulldogs have a ton of talented newcomers this season and the hopes are that the influx of talent will show a dramatic, immediate improvement on the court.
 ---
 ### Overview
 In the second season under Ben Howland, the former UCLA coach has brought in a huge (in both quantity and quality) recruiting class for the Mississippi State Bulldogs. All in all, Mississippi State will see nine newcomers this season including seven recruits straight out of high school, of which all but one are 4-star recruits.

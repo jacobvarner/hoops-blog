@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2016-2017 SEC Basketball Season Preview and Predictions: Kentucky Wildcats"
+title: 2016-2017 SEC Basketball Season Preview: Kentucky Wildcats
+desciption: >
+  John Calipari and the Kentucky Wildcats have once again reloaded with the nation's top talent and are looking at another deep run in March Madness.
 date:   2016-10-5 11:00:00 -0600
 tags: [kentucky-wildcats]
-excerpt: >
-  John Calipari had a "down" year last season as Kentucky standards go, but the Wildcats have bounced back with yet another amazing recruiting class. Can this year's studs come together to be one of the best teams in the country?
 ---
 ### Overview
 Just a few days ago I was writing about how Mustapha Heron, Auburn's first 5-star recruit could drastically help the Tigers make improvements this season. Now it's time to preview the Kentucky Wildcats and their five new 5-star newcomers. Once again, John Calipari has brought in one of the top classes in the country and the Kentucky Wildcats are poised to be the best team in the SEC and one of the best teams in the country once again.

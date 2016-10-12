@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2016-2017 SEC Basketball Season Preview and Predictions: South Carolina Gamecocks"
+title: 2016-2017 SEC Basketball Season Preview: South Carolina Gamecocks
+desciption: >
+  Frank Martin will set out to prove he's one of the top coaches in the SEC this season as South Carolina will attempt to make another run to March Madness.
 date:   2016-10-10 11:00:00 -0600
 tags: [south-carolina-gamecocks]
-excerpt: >
-  South Carolina took advantage of a weak non-conference schedule last year to bolster their record, but can Frank Martin have success once again this season while playing tougher competition?
 ---
 ### Overview
 South Carolina busted onto the scene last year with an impressive run through their non-conference schedule. The early season success got the Gamecocks into a few top 25 polls, but the ease of their schedule also ended up being their downfall in the end as they were overlooked when the brackets for the NCAA Tournament were announced last March.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2016-2017 SEC Basketball Season Preview and Predictions: Missouri Tigers"
+title: 2016-2017 SEC Basketball Season Preview: Missouri Tigers
+desciption: >
+  After a disappointing offseason with players leaving and being dismissed, Kim Anderson will have to rely on Terrence Phillips and Kevin Puryear to survive.
 date:   2016-10-8 7:00:00 -0600
 tags: [missouri-tigers]
-excerpt: >
-  It is Kim Anderson's third year in Columbia, and the Tigers will hope that the third year is the charm and Missouri can start to show some improvement on the court, although things don't look very optimistic.
 ---
 ### Overview
 Since the departure of Frank Haith two years ago, the Missouri Tigers have yet to record more than 10 wins. The Tigers have been at the bottom of the league the last two seasons, and unlike some of the other recent bottom feeders, they haven't brought in talent to make people believe they can climb out of the cellar anytime soon.

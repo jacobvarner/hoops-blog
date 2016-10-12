@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2016-2017 SEC Basketball Season Preview and Predictions: Arkansas Razorbacks"
+title: 2016-2017 SEC Basketball Season Preview: Arkansas Razorbacks
+desciption: >
+  Arkansas brings back their two leading scorers and also reloads with top JuCo talent. The Razorbacks could make a run similar to South Carolina's last year.
 date:   2016-10-1 11:00:00 -0600
 tags: [arkansas-razorbacks]
-excerpt: >
-  Arkansas brings back their two leading scorers from last season and also reloads with a ton of top junior college talent. The Razorbacks have the ability to be similar to South Carolina last season and take advantage of a poor non-conference schedule to sling them into consideration in the SEC.
 ---
 ### Overview
 Anytime a team can return its two leading scorers from the previous year, they should be in pretty good shape. Arkansas does just that with seniors Dusty Hannahs and Moses Kingsley. On top of the returning experience, Arkansas also brings in quality talent in the form of three highly rated Junior College transfers. Jared Barford and Daryl Macon are both 6'3" guards who were ranked as the 1st and 3rd overall junior college recruits from a year ago. Alongside the guard duo is 6th ranked, 6'8" forward Arlando Cook. Granted, not everyone wants to rely on Junior College players to build a program, but landing three that are all in the top 10 can add a good enough jolt to make a splash, especially in the SEC.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2016-2017 SEC Basketball Season Preview and Predictions: Auburn Tigers"
+title: 2016-2017 SEC Basketball Season Preview: Auburn Tigers
+desciption: >
+  In year three under Bruce Pearl, the Auburn Tigers finally have the talent and depth to make some noise in the SEC and could finally make the postseason.
 date:   2016-10-2 9:30:00 -0600
 tags: [auburn-tigers]
-excerpt: >
-  Bruce Pearl is heading into year three on the Plains, and the third year could be the charm. Auburn finally has the depth and athleticism to resemble a typical Bruce Pearl basketball team. Can the Tigers take advantage of a fairly favorable SEC schedule to finally make it to the post season?
 ---
 ### Overview
 Last season was supposed to be the year that Bruce Pearl put an improved team on the court for the Auburn Tigers. Unfortunately injuries and other issues derailed those hopes and an upset over Kentucky was all the Tigers had to speak for at the end of the season. This season, Bruce Pearl's third on the Plains, should be the year that Auburn makes a significant step forward. Thanks to probably the best recruiting class Auburn has ever had, including the Tigers' first ever 5-star recruit, Bruce Pearl should have enough talent and athleticism to really make a splash in the SEC.
