@@ -1,5 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} !^hoops.jacobvarner.com$ [NC]
-RewriteRule ^(.*)$ http://www.hoops.jacobvarner.com/$1 [L,R=301]
-RewriteCond %{HTTP_HOST} ^151\.101\.52\.133
-RewriteRule (.*) http://hoops.jacobvarner.com/$1 [R=301,L]
