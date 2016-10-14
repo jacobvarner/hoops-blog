@@ -10,6 +10,7 @@ This is the first time that I've done anything like this and boy was it harder t
 
 Because I filled up these four teams and then still felt like there were several players that deserved to be mentioned, I then went and added a list of honorable mentions. In comparison, the official All-SEC teams at the end of last season had three separate teams of eight players each. To cap it all off I picked a Player of the Year, a Freshman of the Year, and a Coach of the Year. With all those details out there, here are my All-SEC picks:
 
+
 ### First Team All-SEC
 
 **Dusty Hannahs**, Arkansas
@@ -21,6 +22,7 @@ Because I filled up these four teams and then still felt like there were several
 **Tyler Davis**, Texas A&M
 
 **Bam Adebayo**, Kentucky
+
 
 ### Second Team All-SEC
 
@@ -34,6 +36,7 @@ Because I filled up these four teams and then still felt like there were several
 
 **Luke Kornet**, Vanderbilt
 
+
 ### Third Team All-SEC
 
 **Dazon Ingram**, Alabama
@@ -46,6 +49,7 @@ Because I filled up these four teams and then still felt like there were several
 
 **John Egbunu**, Florida
 
+
 ### All-Freshman Team
 
 **Mustapha Heron**, Auburn
@@ -57,6 +61,7 @@ Because I filled up these four teams and then still felt like there were several
 **Wenyen Gabriel**, Kentucky
 
 **Schnider Herard**, Mississippi State
+
 
 ### Honorable Mentions
 
@@ -74,13 +79,16 @@ Because I filled up these four teams and then still felt like there were several
 
 **Matthew Fisher-Davis**, Vanderbilt
 
+
 ### Player of the Year
 
 **J.J. Frazier**, Georgia
 
+
 ### Freshman of the Year
 
 **Bam Adebayo**, Kentucky
+
 
 ### Coach of the Year
 
