@@ -4,7 +4,7 @@ title: "2016-2017 SEC Basketball Season Preview: Texas A&M Aggies"
 desciption: >
   After making it all the way to the Sweet 16 last season, Billy Kennedy and Texas A&M are looking to remain atop the SEC right behind the Kentucky Wildcats.
 date:   2016-10-12 11:00:00 -0600
-tags: [texas-a&m-aggies]
+tags: [texas-a-m-aggies]
 ---
 ### Overview
 Last season the Aggies were led by Danuel House, Jalen Jones, and Alex Caruso and made it all the way to the Sweet 16 before eventually being knocked out by Buddy Hield and Oklahoma. This year, Texas A&M might not have quite the talent of last season's team especially after JJ Caldwell was ruled ineligible, but the Aggies won't be taking too big of a step back, if at all.
