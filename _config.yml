@@ -18,6 +18,7 @@ logo: /assets/images/logo.png
 
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
