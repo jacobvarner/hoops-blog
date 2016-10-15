@@ -15,7 +15,7 @@ layout: default
           {% if post.tags.size > 0 %}
             <p class="tag-post-tags"><i class="fa fa-tags" aria-hidden="true"></i>
               {% for post_tag in post.tags %}
-              {% assign tag = site.my_tags | where: "slug", post_tag %}
+                {% assign tag = site.my_tags | where: "slug", post_tag %}
                 <a class="tags" href="/tag/{{ tag[0].slug }}/">{{ tag[0].name }}</a>
               {% endfor %}
             </p>

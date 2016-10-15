@@ -36,12 +36,16 @@
     <a class="sidebar-rankings-link" href="/tag/top-25-rankings/">Top 25 Rankings</a>
     <a class="sidebar-rankings-link" href="/tag/sec-power-rankings/">SEC Power Rankings</a> -->
     <h3 class="sidebar-heading"><i class="fa fa-tag" aria-hidden="true"></i> Conferences</h3>
-    {% for tag in site.my_conferences %}
-      <a class="sidebar-tag" href="/tag/{{ tag.slug }}/">{{ tag.name }}</a>
-    {% endfor %}
+    <a class="sidebar-tag" href="/tag/sec/">SEC</a>
     <h3 class="sidebar-heading"><i class="fa fa-tags" aria-hidden="true"></i> Teams</h3>
-    {% for tag in site.my_teams %}
+    {% for tag in site.my_tags %}
+    {% unless tag.name == 'Top 25 Rankings' %}
+    {% unless tag.name == 'SEC Power Rankings' %}
+    {% unless tag.name == 'SEC' %}
       <a class="sidebar-tag" href="/tag/{{ tag.slug }}/">{{ tag.name }}</a>
+    {% endunless %}
+    {% endunless %}
+    {% endunless %}
     {% endfor %}
   </nav>
 </header>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Most Important Player Each SEC Basketball Team This Season"
+title: "The Most Important Player for Each SEC Basketball Team This Season"
 desciption: >
   If each of the basketball teams in the SEC this season wants to surpass expectations, these players will have to play well.
 date:   2016-10-15 11:00:00 -0600
