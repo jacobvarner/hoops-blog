@@ -4,7 +4,7 @@ title: "2016-2017 SEC Basketball Season Preview: Projected Rankings"
 desciption: >
   Kentucky is the obvious favorite to win the league this season, but is there anyone that can give them a challenge or vie for second place in the SEC?
 date:   2016-10-14 11:00:00 -0600
-tags: []
+tags: [sec]
 ---
 ### My Picks
 If you've been following along with each of my previews for every team in the SEC, I've already made my predictions for every single game involving an SEC team this season. This post is to serve as a wrap up piece and share my predicted rankings based on the SEC schedule. This **IS NOT** my power rankings for the SEC. When I think of power rankings for a league, I consider every team playing each game on a neutral court and every team playing every other team. That's not exactly the case with the SEC and most other conferences in college basketball. Especially since the SEC has 14 teams and only 18 league games, some schools are bound to draw easier conference schedules and I think that shows with my projected rankings. If you are interested to see how each school's record breaks down, make sure to go back and check out that team's preview that I wrote in the past two weeks.

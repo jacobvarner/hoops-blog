@@ -4,7 +4,7 @@ title: "2016-2017 SEC Basketball Season Preview: All-SEC Teams"
 desciption: >
   The SEC has a special mixture of returning talent and exciting newcomers, which makes deciding All-SEC teams quite the challenge.
 date:   2016-10-14 12:00:00 -0600
-tags: []
+tags: [sec]
 ---
 This is the first time that I've done anything like this and boy was it harder than I expected. I went in with a list of key players from each team based on my individual previews of each team, and thought I would easily be able to categorize them into just a few teams. I decided to keep it true to basketball and selected two guards, two forwards, and one extra player for each of the three teams. The All-Freshman team is then comprised of the best Freshman that didn't make any of the other three teams.
 
