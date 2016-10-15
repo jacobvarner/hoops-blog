@@ -22,8 +22,6 @@ If Mike White can put together the talent the Gators have this season and make h
 
 **\#2 Eric Hester**, 6'3" 4-star G from Oldsmar Christian
 
-**\#12 Gorjok Gak**, 6'11" 3-star F from Victory Rock Prep
-
 **\#21 Dontay Bassett**, 6'9" 3-star F from Oldsmar Christian
 
 **\#24 Canyon Barry**, 6'6" G from College of Charleston
