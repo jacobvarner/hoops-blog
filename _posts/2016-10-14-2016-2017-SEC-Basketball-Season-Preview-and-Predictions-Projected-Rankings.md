@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2016-2017 SEC Basketball Season Preview: Projected Rankings"
-desciption: >
+description: >
   Kentucky is the obvious favorite to win the league this season, but is there anyone that can give them a challenge or vie for second place in the SEC?
 date:   2016-10-14 11:00:00 -0600
 tags: [sec]
