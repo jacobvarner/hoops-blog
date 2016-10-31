@@ -39,7 +39,7 @@ Greg Gard returns all the starters from a Wisconsin team that won 13 of their fi
 ### 9. Arizona Wildcats
 Sean Miller has really stepped up the recruiting game in Tucson but this year will be a serious step in its own right. Alonzo Trier and company should lead the Wildcats as one of the best teams in the Pac 12 and in the country.
 
-### 10. Xavier Muskateers
+### 10. Xavier Musketeers
 Trevon Bluiett hasn't been getting the recognition he deserves so far this preseason and I think Xavier has the talent once again to rival Villanova as the team to beat in the Big East this season.
 
 #### 11. Virginia Cavaliers
