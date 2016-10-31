@@ -73,11 +73,11 @@ Trevon Bluiett hasn't been getting the recognition he deserves so far this prese
 #### 25. California Bears
 
 ##### Next Five:
-26. Cincinnati Bearcats
-27. Rhode Island Rams
-28. Maryland Terrapins
-29. North Carolina State Wolfpack
-30. West Virginia
+- Cincinnati Bearcats
+- Rhode Island Rams
+- Maryland Terrapins
+- North Carolina State Wolfpack
+- West Virginia
 
 I've moved these teams around quite a bit over the past couple of weeks, but this is what I settled on as my preseason top 25 about a week ago. Like I mentioned in the beginning, all of this could change in the early weeks when I actually get the opportunity to watch these teams play in real games.
 
