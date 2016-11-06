@@ -47,7 +47,7 @@ While the record may not be as good as last year, I think this year's South Caro
 
 **\#5 TeMarcus Blanton**, 6'5" G - Former 4-star recruit that could see time in the starting lineup this season
 
-**\#10 Duan Notice**, 6'2" G - Contributed 10.8 PPG, 2.4 RPG, and 2.3 APG in all 34 games last season
+**\#10 Duane Notice**, 6'2" G - Contributed 10.8 PPG, 2.4 RPG, and 2.3 APG in all 34 games last season
 
 **\#15 PJ Dozier**, 6'6" G - Former 5-star recruit and McDonald's AA, averaged 6.7 PPG, 3 RPG, and 2.1 APG last season
 
