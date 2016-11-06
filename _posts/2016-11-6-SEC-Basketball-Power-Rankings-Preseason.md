@@ -6,7 +6,7 @@ description: >
 date:   2016-11-6 23:00:00 -0600
 tags: [sec-power-rankings]
 ---
-A few weeks ago, I released my (SEC Basketball Preseason Predictions)[http://hoops.jacobvarner.com/2016/10/14/2016-2017-SEC-Basketball-Season-Preview-and-Predictions-Projected-Rankings.html] but I made it clear in that post that those were my predictions for how the league would look at the end of the year. Those predictions were based on picking each matchup for each team. Some teams have harder schedules while some have easier schedules and that played into those predictions. Also, as expected with a league full of young teams, some teams will have the potential of being much better at the end of the season or by the time SEC play rolls around.
+A few weeks ago, I released my [SEC Basketball Preseason Predictions](http://hoops.jacobvarner.com/2016/10/14/2016-2017-SEC-Basketball-Season-Preview-and-Predictions-Projected-Rankings.html) but I made it clear in that post that those were my predictions for how the league would look at the end of the year. Those predictions were based on picking each matchup for each team. Some teams have harder schedules while some have easier schedules and that played into those predictions. Also, as expected with a league full of young teams, some teams will have the potential of being much better at the end of the season or by the time SEC play rolls around.
 
 Ignoring each of those things and just looking at teams as they are right now, these are my SEC basketball power rankings. I came up with this order by assuming each team would play on a neutral court, right now.
 
