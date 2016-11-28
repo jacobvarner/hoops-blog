@@ -3,7 +3,7 @@ layout: post
 title: "SEC Basketball Power Rankings: Week 3"
 description: >
   The SEC has been less than stellar as a whole, but here's how each of the basketball teams stacks up against the rest of the conference.
-date:   2016-11-6 23:00:00 -0600
+date:   2016-11-22 23:00:00 -0600
 tags: [sec-power-rankings]
 ---
 The SEC isn't off to the best start as a conference. Other than Kentucky, almost every other team that's played a big game against another major team has lost. If the league plans on getting more than two or three teams into the dance, they'll need to start winning more games against tough competition from other major conferences. Luckily it's still early in the season and there will be plenty of chances for other teams to prove their worth.
