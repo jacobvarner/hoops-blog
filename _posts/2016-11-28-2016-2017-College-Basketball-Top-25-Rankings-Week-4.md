@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "2016-2017 College Basketball Top 25 Rankings: Week 3"
+title: "2016-2017 College Basketball Top 25 Rankings: Week 4"
 description: >
-  The first week of college basketball did not disappoint. After several top matchups, here's where I rank the top 25.
-date:   2016-11-21 2:00:00 -0600
+  After a week of early season tournaments, college basketball is heating up and the rankings are ever changing.
+date:   2016-11-28 2:00:00 -0600
 tags: [top-25-rankings]
 ---
 This week the rest of the early season tournaments got started and all wrapped up. Feast Week definitely didn't disappoint. North Carolina proved they shouldn't be overlooked as they stormed to a Maui Invitational title and Baylor proved they're a force to be reckoned with and could challenge Kansas at the top of the Big 12.
