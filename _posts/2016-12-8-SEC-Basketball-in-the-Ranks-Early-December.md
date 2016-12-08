@@ -15,13 +15,13 @@ There are several user polls and almost every major (or minor) blog has their ow
 
 The polls I've selected are...
 
-**(AP Poll)[http://collegebasketball.ap.org/poll]:** The AP Poll is updated each week and features writers and other professionals from around the country. There are some voters that aren't perfect, but for the most part, the AP poll is voted on by "experts" that focus most of their time on college basketball.
+**[AP Poll](http://collegebasketball.ap.org/poll):** The AP Poll is updated each week and features writers and other professionals from around the country. There are some voters that aren't perfect, but for the most part, the AP poll is voted on by "experts" that focus most of their time on college basketball.
 
-**(USA Today Coaches Poll)[http://sportspolls.usatoday.com/ncaa/basketball-men/polls/coaches-poll/]:** The Coaches Poll is voted on by select coaches from across the country. It's typically assumed that this is more of an SID poll than a coaches poll, but the name remains. I'm sure there's a handful of coaches that at least influence their rankings.
+**[USA Today Coaches Poll](http://sportspolls.usatoday.com/ncaa/basketball-men/polls/coaches-poll/):** The Coaches Poll is voted on by select coaches from across the country. It's typically assumed that this is more of an SID poll than a coaches poll, but the name remains. I'm sure there's a handful of coaches that at least influence their rankings.
 
-**(CBS Sports Top 25 and 1)[http://www.cbssports.com/college-basketball/rankings/top25/]:** Personally, I've always been a fan of the college basketball coverage that CBS provides. As such, I also enjoy their rankings that they update almost every day.
+**[CBS Sports Top 25 and 1](http://www.cbssports.com/college-basketball/rankings/top25/):** Personally, I've always been a fan of the college basketball coverage that CBS provides. As such, I also enjoy their rankings that they update almost every day.
 
-**(Reddit /r/CollegeBasketball User Poll)[http://cbbpoll.com/poll/2017/5]:** This one's different in a lot of ways, but I still find value in it for one big reason. It's voted on by several fans who are mostly just passionate about college basketball. It usually produces slightly different rankings than the other major polls, but with a larger voter pool, it can give a different look at things on a national level.
+**[Reddit /r/CollegeBasketball User Poll](http://cbbpoll.com/poll/2017/5):** This one's different in a lot of ways, but I still find value in it for one big reason. It's voted on by several fans who are mostly just passionate about college basketball. It usually produces slightly different rankings than the other major polls, but with a larger voter pool, it can give a different look at things on a national level.
 
 |-----------------------+----+----+-----+-----+-------|
 | Team                  | AP | CP | CBS | RUP | AVG   |
