@@ -47,15 +47,15 @@ These rankings use statistics, head to head matchups, and more data to rank each
 
 The polls I've selected are...
 
-**(Ratings Percentage Index (RPI))[http://www.espn.com/mens-college-basketball/rpi/_/sort/RPI]:** The RPI has it's flaws, but focused mostly on head to head competition. Despite its flaws, the RPI is still used as a big part of the selection process in March.
+**[Ratings Percentage Index (RPI)](http://www.espn.com/mens-college-basketball/rpi/_/sort/RPI):** The RPI has it's flaws, but focused mostly on head to head competition. Despite its flaws, the RPI is still used as a big part of the selection process in March.
 
-**(Basketball Power Index (BPI))[http://www.espn.com/mens-college-basketball/bpi]:** The BPI is similar to the RPI, but also focuses on more modern things like pace of play and which players were active for any said game.
+**[Basketball Power Index (BPI)](http://www.espn.com/mens-college-basketball/bpi):** The BPI is similar to the RPI, but also focuses on more modern things like pace of play and which players were active for any said game.
 
-**(Massey Ratings)[http://www.masseyratings.com/cb/ncaa-d1/ratings]:** A computer rating system based on team's past performance. Massey rates based on past wins and losses, but also predicts the number of future wins and losses based on the team's remaining schedule.
+**[Massey Ratings](http://www.masseyratings.com/cb/ncaa-d1/ratings):** A computer rating system based on team's past performance. Massey rates based on past wins and losses, but also predicts the number of future wins and losses based on the team's remaining schedule.
 
-**(Sagarin Ratings)[http://sagarin.com/sports/cbsend.htm]:** Similar to Massey's rating system, Jeff Sagarin developed another commonly used computer rating system but the formula remains a secret for obvious reasons. These ratings focus on past competition and any predictions are based solely on two team's ratings and where the game is played.
+**[Sagarin Ratings](http://sagarin.com/sports/cbsend.htm):** Similar to Massey's rating system, Jeff Sagarin developed another commonly used computer rating system but the formula remains a secret for obvious reasons. These ratings focus on past competition and any predictions are based solely on two team's ratings and where the game is played.
 
-**(Kevin Pauga Index)[http://www.kpisports.net/d-i_mbb/2016-17-d-mbb-kpi-rankings/]:** The KPI rankings are based off of a team's performance compared to that team's expected performance. Teams are assigned a score between -1 and 1 for each game. Games are seen as equal to each other and no data from before the current season is used.
+**[Kevin Pauga Index](http://www.kpisports.net/d-i_mbb/2016-17-d-mbb-kpi-rankings/):** The KPI rankings are based off of a team's performance compared to that team's expected performance. Teams are assigned a score between -1 and 1 for each game. Games are seen as equal to each other and no data from before the current season is used.
 
 |-----------------------+-----+-----+-----+-----+-----+-------|
 | Team                  | RPI | BPI | M   | S   | KPI | AVG   |
@@ -81,11 +81,11 @@ Predictive rankings are almost always computer based as well. They are ever chan
 
 The polls I've selected are...
 
-**(Ken Pomeroy Ratings)[http://kenpom.com/]:** Ken Pomeroy has been one of the most popular predictive rankings producer with his formula that updates daily and has been evolving each year to take into account new stats such as pace of play, efficiency, strength of schedule, and even luck.
+**[Ken Pomeroy Ratings](http://kenpom.com/):** Ken Pomeroy has been one of the most popular predictive rankings producer with his formula that updates daily and has been evolving each year to take into account new stats such as pace of play, efficiency, strength of schedule, and even luck.
 
-**(TeamRankings)[https://www.teamrankings.com/ncb/standings/]:** TeamRankings is a predictive ranking system that also give percentage chances that each team will make the NCAA Tournament or a specific round in the Tournament.
+**[TeamRankings](https://www.teamrankings.com/ncb/standings/):** TeamRankings is a predictive ranking system that also give percentage chances that each team will make the NCAA Tournament or a specific round in the Tournament.
 
-**(T-Rank Ratings)[http://barttorvik.com/]:** The T-Rank rating system is based off of similar stats as Ken Pomeroy's ratings, but is in a more simplified form. The ratings are based off of efficiency along with effective field goal percentage, turnover percentage, offensive rebound percentage, and free throw rate.
+**[T-Rank Ratings](http://barttorvik.com/):** The T-Rank rating system is based off of similar stats as Ken Pomeroy's ratings, but is in a more simplified form. The ratings are based off of efficiency along with effective field goal percentage, turnover percentage, offensive rebound percentage, and free throw rate.
 
 |-----------------------+-----+-----+-----+-------|
 | Team                  | KP  | TR  | T-R | AVG   |
@@ -131,6 +131,6 @@ Using the average ranking from each of the 12 rankings systems that I have selec
 
 Like I said at the beginning, each rating/ranking system has its own positives and negatives, but when combining 12 of the most popular systems in use today, we can get a pretty good look at where each SEC basketball team stands. If you want to look at a team's outlook, it's best to look at the predictive rankings. If you want to see how a team has been doing objectively, then take a look at their computer rankings. If you want to see how a team has been doing subjectively, with a emphasis on recent performance, look at how each team is ranked in the polls.
 
-Stats and matchups tell a lot about college basketball, but the best way to evaluate a team is to watch them yourselves. That's why I also release my own (SEC Power Rankings)[http://hoops.jacobvarner.com/tag/sec-power-rankings/] each week based on what I have seen from each team in the league. These, like a typical poll, weigh recent performance as well as the team's resume or past achievements.
+Stats and matchups tell a lot about college basketball, but the best way to evaluate a team is to watch them yourselves. That's why I also release my own [SEC Power Rankings](http://hoops.jacobvarner.com/tag/sec-power-rankings/) each week based on what I have seen from each team in the league. These, like a typical poll, weigh recent performance as well as the team's resume or past achievements.
 
-I hope you enjoyed this look at each SEC basketball team's rankings and if there is any poll you think I should or shouldn't have added, I'd love any feedback over on (Twitter)[https://www.twitter.com/jacobvarner14]. I'd like to hear what others like about certain polls and not whether I should or shouldn't include a poll because it "hates" your team or doesn't favor them.
+I hope you enjoyed this look at each SEC basketball team's rankings and if there is any poll you think I should or shouldn't have added, I'd love any feedback over on [Twitter](https://www.twitter.com/jacobvarner14). I'd like to hear what others like about certain polls and not whether I should or shouldn't include a poll because it "hates" your team or doesn't favor them.
