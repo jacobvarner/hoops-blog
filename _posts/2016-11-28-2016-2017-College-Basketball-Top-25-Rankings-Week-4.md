@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2016-2017 College Basketball Top 25 Rankings: Week 4"
+title: "Jacob Varner's 2016-2017 College Basketball Top 25 Rankings: Week 4"
 description: >
   After a week of early season tournaments, college basketball is heating up and the rankings are ever changing.
 date:   2016-11-28 2:00:00 -0600

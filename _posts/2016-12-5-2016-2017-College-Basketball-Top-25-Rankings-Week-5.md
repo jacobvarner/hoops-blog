@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2016-2017 College Basketball Top 25 Rankings: Week 5"
+title: "Jacob Varner's 2016-2017 College Basketball Top 25 Rankings: Week 5"
 description: >
   There were several key matchups this week, but work and final projects forced me to miss watching them.
 date:   2016-12-5 2:00:00 -0600

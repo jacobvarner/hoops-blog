@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2016-2017 College Basketball Top 25 Rankings: Preseason"
+title: "Jacob Varner's 2016-2017 College Basketball Top 25 Rankings: Preseason"
 description: >
   College basketball is right around the corner and there are a handful of dominant teams near the top with tons of talent close behind.
 date:   2016-10-31 2:00:00 -0600

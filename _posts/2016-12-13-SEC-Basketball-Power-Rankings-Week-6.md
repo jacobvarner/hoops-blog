@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEC Basketball Power Rankings: Week 6"
+title: "Jacob Varner's SEC Basketball Power Rankings: Week 6"
 description: >
   This was a really bad week for SEC basketball as the league went 0-5 against the ACC over the weekend.
 date:   2016-12-13 23:00:00 -0600

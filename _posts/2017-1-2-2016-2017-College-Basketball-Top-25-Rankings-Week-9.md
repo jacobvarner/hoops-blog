@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2016-2017 College Basketball Top 25 Rankings: Week 9"
+title: "Jacob Varner's 2016-2017 College Basketball Top 25 Rankings: Week 9"
 description: >
   Conference play has begun and the upsets are already flowing in making it difficult to accurately place teams.
 date:   2017-1-2 2:00:00 -0600

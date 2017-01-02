@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEC Basketball in the Ranks: Early December"
+title: "Jacob Varner's SEC Basketball in the Ranks: Early December"
 description: >
   A good portion of non-conference play is done, so where do each of the SEC teams stand?
 date:   2016-12-8 23:00:00 -0600
