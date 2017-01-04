@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Football Fans, Here's What You've Missed Around the SEC on the Basketball Court so Far"
+title: "Welcome to Basketball Season, Football Fans: Here's What You Missed Around the SEC"
 description: >
   The SEC is definitely a football conference, so with football season all but done, here's what's been going on on the basketball court.
 date:   2017-1-4 23:00:00 -0600
