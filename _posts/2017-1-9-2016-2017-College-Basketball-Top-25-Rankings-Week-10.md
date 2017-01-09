@@ -3,7 +3,7 @@ layout: post
 title: "Jacob Varner's 2016-2017 College Basketball Top 25 Rankings: Week 10"
 description: >
   Number one Villanova finally went down and the Baylor Bears are in the top spot for the first time in program history.
-date:   2017-1-2 2:00:00 -0600
+date:   2017-1-9 2:00:00 -0600
 tags: [top-25-rankings]
 ---
 Villanova finally went down as Butler held on to knock of the Wildcats in Hinkle Fieldhouse. With Villanova finally going down, it leaves the door open for a new number one team. A case could be made for Kansas, but Baylor lands in the top spot in my poll. It's hard to move Villanova far down when they've been the clear top team for me for a few weeks now and a close win on the road against a good team doesn't change that too much. However, there are a handful of others at the top that certainly deserve to move up.
